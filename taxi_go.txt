@@ -1,0 +1,79 @@
+<div className="AndroidLarge1" style={{width: 360, height: 800, position: 'relative', background: 'white'}}>
+  <div className="Frame5" style={{width: 360, height: 790, left: 0, top: 5, position: 'absolute', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Rectangle2" style={{width: 360, height: 790, background: '#1058E4'}} />
+  </div>
+  <div className="Rectangle1" style={{width: 360, height: 20, left: 0, top: 0, position: 'absolute', background: 'white'}} />
+  <div className="Carfilled" style={{width: 32, height: 32, left: 164, top: 384, position: 'absolute'}} />
+  <div className="Vector" style={{width: 70, height: 62, left: 145, top: 376, position: 'absolute', background: '#ECD717'}}></div>
+  <div className="Frame1" style={{left: 116, top: 442, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Taxigo" style={{color: 'white', fontSize: 40, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>TaxiGo</div>
+  </div>
+  <div className="MdiRoad" style={{width: 19, height: 36, left: 244, top: 442, position: 'absolute', background: '#FBF0F0'}}>
+    <div className="Vector" style={{width: 12.67, height: 30, left: 3.17, top: 3, position: 'absolute', background: '#333333'}}></div>
+    <div className="Vector1" style={{width: 1.80, height: 6.11, left: 8.73, top: 6.11, position: 'absolute', border: '1px black solid'}}></div>
+  </div>
+</div>
+<div className="Search" style={{width: 360, height: 800, position: 'relative', background: 'white'}}>
+  <div className="Rectangle11" style={{width: 360, height: 66, left: 0, top: 0, position: 'absolute', background: '#D9D9D9'}} />
+  <div className="Rectangle5" style={{width: 360, height: 66, left: 0, top: 0, position: 'absolute', background: '#F3F9CF', borderRadius: 10, border: '1px #D6D9B4 solid'}} />
+  <div className="MaterialSymbolsSearchRounded" style={{width: 24, height: 24, paddingTop: 3, paddingBottom: 3.42, paddingLeft: 3, paddingRight: 3.40, left: 33, top: 21, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 17.60, height: 17.58, background: '#333333'}}></div>
+  </div>
+  <div className="Vector4" style={{width: 322, height: 0, left: 19, top: 53, position: 'absolute', border: '1px black solid'}}></div>
+  <div className="Vector5" style={{width: 322, height: 0, left: 19, top: 53, position: 'absolute', border: '1px black solid'}}></div>
+  <div className="Frame4" style={{left: 75, top: 19, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="TejaResidency" style={{color: 'black', fontSize: 20, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>Teja Residency </div>
+  </div>
+  <div className="IcRoundAccessTime" style={{width: 24, height: 24, padding: 2, left: 19, top: 84, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 20, height: 20, background: '#333333'}}></div>
+  </div>
+  <div className="Vector" style={{width: 20, height: 20, left: 21, top: 139, position: 'absolute', background: '#333333'}}></div>
+  <div className="Vector" style={{width: 20, height: 20, left: 21, top: 192, position: 'absolute', background: '#333333'}}></div>
+  <div className="TejaResidency1" style={{left: 62, top: 84, position: 'absolute', color: 'black', fontSize: 20, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>Teja Residency 1</div>
+  <div className="TejaResidency2" style={{left: 62, top: 137, position: 'absolute', color: 'black', fontSize: 20, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>Teja Residency 2</div>
+  <div className="TejaResidency3" style={{left: 65, top: 190, position: 'absolute', color: 'black', fontSize: 20, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>Teja Residency 3</div>
+</div>
+<div className="AndroidLarge2" style={{width: 384, height: 800, position: 'relative', background: 'white'}}>
+  <div className="Rectangle5" style={{width: 360, height: 66, left: 0, top: 0, position: 'absolute', background: '#F3F9CF', borderRadius: 10, border: '1px #D6D9B4 solid'}} />
+  <div className="Vector5" style={{width: 322, height: 0, left: 19, top: 53, position: 'absolute', border: '1px black solid'}}></div>
+  <div className="TejaResidency1" style={{left: 75, top: 19, position: 'absolute', color: 'black', fontSize: 20, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>Teja Residency 1 </div>
+  <div className="MaterialSymbolsSearchRounded" style={{width: 24, height: 24, paddingTop: 3, paddingBottom: 3.42, paddingLeft: 3, paddingRight: 3.40, left: 33, top: 21, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 17.60, height: 17.58, background: '#333333'}}></div>
+  </div>
+  <img className="MapInUberApplicationTrackingUserInAYellowCab2" style={{width: 808, height: 397, left: -250, top: 66, position: 'absolute'}} src="https://via.placeholder.com/808x397" />
+  <div className="Rectangle12" style={{width: 360, height: 44, left: 0, top: 463, position: 'absolute', background: 'white', borderRadius: 8, border: '1px rgba(0, 0, 0, 0.38) solid'}} />
+  <div className="Line1" style={{width: 56, height: 0, left: 208, top: 469, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0', border: '1px #9E9E9E solid'}}></div>
+</div>
+<div className="Frame6" style={{width: 360, height: 800, flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+  <div className="Frame2" style={{alignSelf: 'stretch', flex: '1 1 0', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Home" style={{width: 360, height: 800, position: 'relative', background: 'white', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'flex'}}>
+      <div className="Rectangle3" style={{width: 360, height: 1, background: 'white'}} />
+      <div className="Rectangle4" style={{width: 360, height: 63, background: '#F3F9D0', borderRadius: 10, border: '1px #A6A58A solid'}} />
+      <div className="TablerCurrentLocation" style={{width: 28, height: 28, padding: 2.33, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div className="Group" style={{width: 23.33, height: 23.33, position: 'relative'}}>
+          <div className="Vector" style={{width: 7, height: 7, left: 8.17, top: 8.17, position: 'absolute', border: '2px #333333 solid'}}></div>
+          <div className="Vector" style={{width: 23.33, height: 23.33, left: 0, top: 0, position: 'absolute', border: '2px #333333 solid'}}></div>
+        </div>
+      </div>
+      <div className="CurrentLocation" style={{color: 'black', fontSize: 24, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>Current Location</div>
+      <div className="Vector3" style={{width: 312.50, height: 465, border: '1px black solid'}}></div>
+      <img className="MapInUberApplicationTrackingUserInAYellowCab1" style={{width: 751, height: 451}} src="https://via.placeholder.com/751x451" />
+      <div className="Rectangle5" style={{width: 360, height: 66, background: '#F3F9CF', borderRadius: 10, border: '1px #D6D9B4 solid'}} />
+      <div className="SearchDistination" style={{width: 247, color: 'black', fontSize: 24, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>Search Distination </div>
+      <div className="SearchDistination" style={{width: 247, color: 'black', fontSize: 24, fontFamily: 'Mansalva', fontWeight: '400', wordWrap: 'break-word'}}>Search Distination </div>
+      <div className="Frame3" style={{width: 24, height: 24, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div className="MaterialSymbolsSearchRounded" style={{flex: '1 1 0', alignSelf: 'stretch', paddingTop: 3, paddingBottom: 3.42, paddingLeft: 3, paddingRight: 3.40, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+          <div className="Vector" style={{width: 17.60, height: 17.58, background: '#333333'}}></div>
+        </div>
+      </div>
+      <div className="Ellipse1" style={{width: 52, height: 49, background: '#353232', borderRadius: 9999}} />
+      <div className="Rectangle6" style={{width: 360, height: 58, background: '#353232'}} />
+      <div className="Rectangle8" style={{width: 75, height: 58, background: '#353232'}} />
+      <div className="Rectangle7" style={{width: 55, height: 57, background: '#353232'}} />
+      <div className="Rectangle9" style={{width: 78, height: 57, background: '#353232', border: '1px #353232 solid'}} />
+      <div className="Rectangle10" style={{width: 74, height: 57, background: '#353232'}} />
+      <div className="Vector2" style={{width: 203, height: 56, border: '1px black solid'}}></div>
+      <div className="Vector" style={{width: 8, height: 34, background: '#FAF3F3'}}></div>
+    </div>
+  </div>
+</div>
